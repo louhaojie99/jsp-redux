@@ -1,0 +1,10 @@
+html,
+body {
+	height: 100%;
+}
+body {
+	background-color: #c1c1c1 !important;
+	display: flex;
+	justify-content: center;
+	padding-top: 20px;
+}
